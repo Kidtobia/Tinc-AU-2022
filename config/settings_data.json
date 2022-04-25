@@ -137,7 +137,7 @@
           "logo": "shopify:\/\/shop_images\/Logosmall_300x148_9805e84c-50cf-4787-b8d0-ab103c8a6812.png",
           "logo_height": 78,
           "logo_width": 150,
-          "filter_search_by": "product_type",
+          "filter_search_by": "disabled",
           "enable_live_search": true,
           "show_mobile_search_bar": false,
           "enable_live_search_images": true,
