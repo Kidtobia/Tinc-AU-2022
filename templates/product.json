@@ -38,6 +38,20 @@
           "type": "share",
           "settings": {
           }
+        },
+        "2ad400a8-3372-42ea-9d98-c4e8a403446d": {
+          "type": "collapsible-tab",
+          "settings": {
+            "collapsible_tab_heading": "Shipping",
+            "collapsible_tab_text": "<p>Use this text to share information about your product.<\/p>"
+          }
+        },
+        "1f9b361d-f6b2-4692-be7d-0d9fefc13203": {
+          "type": "collapsible-tab",
+          "settings": {
+            "collapsible_tab_heading": "Returns",
+            "collapsible_tab_text": "<p>Use this text to share information about your product.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -47,7 +61,9 @@
         "price",
         "description",
         "form",
-        "share"
+        "share",
+        "2ad400a8-3372-42ea-9d98-c4e8a403446d",
+        "1f9b361d-f6b2-4692-be7d-0d9fefc13203"
       ],
       "settings": {
         "gallery_aspect_ratio": "natural",
