@@ -308,6 +308,7 @@
         "promotion-1": {
           "type": "promotion",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Cat-Stationery.jpg",
             "background_position": "center-center",
             "title": "Grid",
             "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
@@ -374,7 +375,7 @@
       ],
       "settings": {
         "title": "Grid",
-        "section_height": "medium",
+        "section_height": "small",
         "section_columns": 4,
         "text_alignment": "top-left"
       }
