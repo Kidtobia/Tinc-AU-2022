@@ -496,7 +496,7 @@
         "textbox_title": "Authentinc",
         "textbox_subheading": "<p>Introducing Authentinc, a premium, environmentally conscious collection from Tinc, the home of creative stationery<\/p>",
         "textbox_button_label": "Shop Now",
-        "textbox_button_link": "",
+        "textbox_button_link": "shopify:\/\/collections\/authentinc-collection",
         "textbox_button_style": "primary",
         "textbox_text_alignment": "center",
         "textbox_text_position": "left"
