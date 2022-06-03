@@ -19,13 +19,13 @@
           "settings": {
           }
         },
-        "price": {
-          "type": "price",
+        "description": {
+          "type": "description",
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
+        "price": {
+          "type": "price",
           "settings": {
           }
         },
@@ -58,8 +58,8 @@
         "title",
         "vendor",
         "059b48f6-f609-4864-aba4-d6f15761b922",
-        "price",
         "description",
+        "price",
         "form",
         "share",
         "2ad400a8-3372-42ea-9d98-c4e8a403446d",
