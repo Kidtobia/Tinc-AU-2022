@@ -461,33 +461,33 @@
         "hotspot-2": {
           "type": "hotspot",
           "settings": {
-            "product": "",
-            "x_axis": 64,
+            "product": "authentinc-cork-desk-tidy",
+            "x_axis": 67,
             "y_axis": 67
           }
         },
         "hotspot-3": {
           "type": "hotspot",
           "settings": {
-            "product": "",
-            "x_axis": 61,
-            "y_axis": 5
+            "product": "authentinc-set-of-5-pencils-with-eraser",
+            "x_axis": 22,
+            "y_axis": 39
           }
         },
         "hotspot-4": {
           "type": "hotspot",
           "settings": {
-            "product": "",
-            "x_axis": 15,
-            "y_axis": 19
+            "product": "authentinc-a5-cork-and-white-journal",
+            "x_axis": 9,
+            "y_axis": 24
           }
         },
         "hotspot-5": {
           "type": "hotspot",
           "settings": {
-            "product": "",
-            "x_axis": 87,
-            "y_axis": 48
+            "product": "authentinc-cork-pencil-pouch",
+            "x_axis": 66,
+            "y_axis": 34
           }
         }
       },
