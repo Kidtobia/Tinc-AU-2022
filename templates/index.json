@@ -192,8 +192,9 @@
         "promotion-3": {
           "type": "promotion",
           "settings": {
-            "title": "Mosaic",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "image": "shopify:\/\/shop_images\/00_Water-Bottles.jpg",
+            "title": "",
+            "text": "",
             "color": "#ffffff",
             "block_link": "",
             "button_text": "",
