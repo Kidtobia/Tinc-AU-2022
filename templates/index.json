@@ -240,13 +240,13 @@
         "view-all-card": {
           "type": "view_all_card",
           "settings": {
-            "image": "shopify:\/\/shop_images\/New-Arrivals-Card.jpg",
+            "image": "shopify:\/\/shop_images\/Card-New-Arrivals.jpg",
             "text_alignment": "center-left",
             "pre_heading": "",
-            "heading": "New Arrivals",
+            "heading": "",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
-            "overlay_opacity": 40
+            "overlay_opacity": 0
           }
         }
       },
