@@ -13,6 +13,11 @@
           "settings": {
           }
         },
+        "059b48f6-f609-4864-aba4-d6f15761b922": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "settings": {
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -37,6 +42,7 @@
       "block_order": [
         "title",
         "vendor",
+        "059b48f6-f609-4864-aba4-d6f15761b922",
         "price",
         "description",
         "form",
