@@ -38,6 +38,12 @@
           "settings": {
           }
         },
+        "813227a0-a65e-49f9-9bbd-39ee565bfaa4": {
+          "type": "custom-liquid",
+          "settings": {
+            "custom_liquid": "<p style=\"font-size:10.5pt\"><b>Payment options:<\/p>\n                        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0085\/7135\/5236\/files\/payment-icons.png?v=1631169563\" alt=\"Payment Methods\" height=\"25\">"
+          }
+        },
         "2ad400a8-3372-42ea-9d98-c4e8a403446d": {
           "type": "collapsible-tab",
           "settings": {
@@ -61,6 +67,7 @@
         "price",
         "form",
         "share",
+        "813227a0-a65e-49f9-9bbd-39ee565bfaa4",
         "2ad400a8-3372-42ea-9d98-c4e8a403446d",
         "1f9b361d-f6b2-4692-be7d-0d9fefc13203"
       ],
