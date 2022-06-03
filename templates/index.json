@@ -443,9 +443,9 @@
         "hotspot-1": {
           "type": "hotspot",
           "settings": {
-            "product": "",
-            "x_axis": 24,
-            "y_axis": 79
+            "product": "authentinc-pencil-case-black-and-white",
+            "x_axis": 13,
+            "y_axis": 81
           }
         },
         "hotspot-2": {
@@ -489,7 +489,8 @@
         "hotspot-5"
       ],
       "settings": {
-        "title": "Shoppable image",
+        "title": "",
+        "image": "shopify:\/\/shop_images\/00_Authentinc.jpg",
         "image_width": "two-thirds",
         "link_text": "View product",
         "textbox_title": "Shop the look",
