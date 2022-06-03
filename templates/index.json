@@ -176,13 +176,14 @@
         "promotion-2": {
           "type": "promotion",
           "settings": {
-            "title": "Mosaic",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "image": "shopify:\/\/shop_images\/00-Highlighters.jpg",
+            "title": "",
+            "text": "",
             "color": "#ffffff",
-            "block_link": "",
+            "block_link": "shopify:\/\/collections\/highlighters",
             "button_text": "",
             "button_style": "primary",
-            "show_overlay": true,
+            "show_overlay": false,
             "background": "#000000",
             "opacity": 5
           }
