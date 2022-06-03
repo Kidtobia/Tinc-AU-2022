@@ -33,7 +33,7 @@
           "settings": {
           }
         },
-        "payment-icons": {
+        "paymenticons": {
           "type": "icons",
           "settings": {
           }
@@ -51,7 +51,7 @@
         "price",
         "description",
         "form",
-        "payment-icons",
+        "paymenticons",
         "share"
       ],
       "settings": {
