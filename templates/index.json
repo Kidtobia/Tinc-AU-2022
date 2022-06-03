@@ -379,42 +379,42 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "pencil-cases",
             "title": ""
           }
         },
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "lunch-bags",
             "title": ""
           }
         },
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "backpacks",
             "title": ""
           }
         },
         "collection-4": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "erasers",
             "title": ""
           }
         },
         "collection-5": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "notebooks",
             "title": ""
           }
         },
-        "collection-6": {
+        "636eea2e-31bb-4805-99fd-39684cc55d3d": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "water-bottles",
             "title": ""
           }
         }
@@ -425,7 +425,7 @@
         "collection-3",
         "collection-4",
         "collection-5",
-        "collection-6"
+        "636eea2e-31bb-4805-99fd-39684cc55d3d"
       ],
       "settings": {
         "title": "Collection list",
