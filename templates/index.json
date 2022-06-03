@@ -207,15 +207,16 @@
         "promotion-4": {
           "type": "promotion",
           "settings": {
-            "title": "Mosaic",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "image": "shopify:\/\/shop_images\/00_Pens-and-Pencils.jpg",
+            "title": "",
+            "text": "",
             "color": "#ffffff",
             "block_link": "",
             "button_text": "",
             "button_style": "primary",
             "show_overlay": false,
-            "background": "",
-            "opacity": 50
+            "background": "#000000",
+            "opacity": 17
           }
         }
       },
