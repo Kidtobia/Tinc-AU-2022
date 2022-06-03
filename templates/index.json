@@ -374,7 +374,7 @@
         "promotion-4"
       ],
       "settings": {
-        "title": "Grid",
+        "title": "",
         "section_height": "small",
         "section_columns": 4,
         "text_alignment": "top-left"
