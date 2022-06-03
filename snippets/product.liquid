@@ -211,7 +211,6 @@
           			{% render 'zip-widget' %}
                   <p><a style="cursor:pointer;color:black;" id="shopify-prod-calc" data-zm-widget="repaycalc" data-zm-amount="20" data-zm-info="true"></a></p>
 <!-- End ZipMoney Widget -->
-
                 <form data-payment-terms-target style="display: none;"></form>
               </div>
 
@@ -260,32 +259,9 @@
                   </center>
               </div>
 <!-- ICON CODE FINISH -->
-<!-- Social Proof Code - Reform Digital Suggestion 13/10/2021 -->
-                  {% when 'ship' %}
-                    <div class="product-extra">
-                      <div class="tab">
-                        <input type="checkbox" id="tab2" class="tab-toggle">
-                          <label for="tab2" class="tab-label">Shipping</label>
-                            <div class="tab-content">{{ block.settings.ship }}</div>
-                        </div>             
-                    </div>
-                  {% when 'returns' %}
-                    <div class="product-extra">
-                      <div class="tab">
-                        <input type="checkbox" id="tab1" class="tab-toggle">
-                          <label for="tab1" class="tab-label">Returns</label>
-                            <div class="tab-content">{{ block.settings.returns }}</div>
-                      </div>             
-                    </div>
-                  {% when 'icons' %}
-                    <br>
-                      <p style="font-size:10.5pt"><b>Payment options:</p>
-                        <img src="https://cdn.shopify.com/s/files/1/0085/7135/5236/files/payment-icons.png?v=1631169563" alt="Payment Methods" height="25">                   
-<!-- End Code Insert -->
           {% when 'review' %}
             <div class="ruk_rating_snippet" data-sku="{{ product.handle }};{{ product.variants | map: 'sku' | join: ';' }};{{ product.variants | map: 'id' | join: ';' }}"></
             </div>                    
-
             {% when 'text' %}
               <div class="product-text">
                 {{ block.settings.text }}
