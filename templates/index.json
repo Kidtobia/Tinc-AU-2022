@@ -340,11 +340,12 @@
         "promotion-3": {
           "type": "promotion",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Cat-Pencil-Cases.jpg",
             "background_position": "center-left",
-            "title": "Grid",
-            "text": "Use this section to welcome customers to your store, say a bit about your brand, or share news.",
+            "title": "",
+            "text": "",
             "color": "#ffffff",
-            "block_link": "",
+            "block_link": "shopify:\/\/collections\/pencil-cases",
             "button_text": "",
             "button_style": "primary",
             "show_overlay": false,
