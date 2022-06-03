@@ -15,6 +15,7 @@
         },
         "059b48f6-f609-4864-aba4-d6f15761b922": {
           "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
           "settings": {
           }
         },
@@ -37,18 +38,6 @@
           "type": "share",
           "settings": {
           }
-        },
-        "acb8e038-cf20-4e2a-801c-7da627a1d285": {
-          "type": "ship",
-          "settings": {
-            "ship": "<p>Australia Post are experiencing delays with standard delivery. For fast delivery choose express at checkout<br\/><br\/>Australian Standard Delivery - $9<br\/>Australian Express Delivery - $14<\/p><p>FREE SHIPPING when you spend over $40<\/p><p><a href=\"https:\/\/tinc.net.au\/pages\/delivery-information\"><strong>View full delivery information<\/strong><\/a><\/p>"
-            }
-        },
-        "ec6bd77f-0477-433c-9514-269a13217e97": {
-          "type": "returns",
-          "settings": {
-            "returns": "<p>Items can be returned to us with the following details:<\/p><p>- Item is returned within 30 days of purchase.<br\/>- The original receipt or proof of purchase is provided.<br\/>- The returned item is unused with original packaging.<br\/>- Items can be returned for a refund, exchange or gift card.<\/p><p><a href=\"\/pages\/returns-policy\" title=\"Returns Policy\"><strong>View full returns information<\/strong><\/a><\/p>"
-          }  
         }
       },
       "block_order": [
