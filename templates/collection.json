@@ -30,7 +30,7 @@
         "show_by": true,
         "grid_list": true,
         "default_view": "grid-view",
-        "enable_subcollection": false,
+        "enable_subcollection": true,
         "show_product_count": false,
         "thumbnail_image": "product-image",
         "image_crop": "original"
