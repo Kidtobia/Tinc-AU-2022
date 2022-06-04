@@ -631,20 +631,20 @@
             "review_type": "product",
             "reviews_shown": 20,
             "header_bg_colour": "#f7698d",
-            "header_colour": "#fff",
-            "header_star_colour": "#fff",
-            "heading_text_colour": "#0E1311",
+            "header_colour": "#ffffff",
+            "header_star_colour": "#ffffff",
+            "heading_text_colour": "#0e1311",
             "heading_font": "helvetica_n4",
-            "body_text_colour": "#0E1311",
-            "badge_icon_colour": "#0E1311",
-            "badge_text_colour": "#0E1311",
+            "body_text_colour": "#0e1311",
+            "badge_icon_colour": "#0e1311",
+            "badge_text_colour": "#0e1311",
             "bg_start_colour": "#ffffff",
             "bg_end_colour": "#ffffff",
             "item_border_width": "0px",
-            "item_border_colour": "rgba(0,0,0,0.05)",
+            "item_border_colour": "#000000",
             "item_border_radius": "0px",
             "item_shadow_size": "10px",
-            "item_shadow_colour": "rgba(0,0,0,0.05)",
+            "item_shadow_colour": "#000000",
             "enable_rich_snippets": false,
             "disable_same_customer": false,
             "logo_colour": "var(--logo-inverted)"
@@ -685,6 +685,23 @@
         "background": "#000000",
         "opacity": 50
       }
+    },
+    "1654335293c0b4ec97": {
+      "type": "apps",
+      "blocks": {
+        "9a049c42-fd6a-4f6e-bd45-3986d13af262": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "RHVyMU"
+          }
+        }
+      },
+      "block_order": [
+        "9a049c42-fd6a-4f6e-bd45-3986d13af262"
+      ],
+      "settings": {
+        "include_padding": true
+      }
     }
   },
   "order": [
@@ -701,6 +718,7 @@
     "dynamic_promo_grid-3",
     "165433319205b3cf77",
     "dynamic_blog_posts",
-    "dynamic_search"
+    "dynamic_search",
+    "1654335293c0b4ec97"
   ]
 }
