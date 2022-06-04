@@ -627,10 +627,10 @@
         "ded496f2-4425-4690-a25c-8264368d6e8e": {
           "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
           "settings": {
-            "star": "#000",
+            "star": "#ffab41",
             "review_type": "product",
             "reviews_shown": 20,
-            "header_bg_colour": "#000",
+            "header_bg_colour": "#f7698d",
             "header_colour": "#fff",
             "header_star_colour": "#fff",
             "heading_text_colour": "#0E1311",
