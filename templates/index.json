@@ -647,39 +647,12 @@
             "text": "<p>Awesome product quality and the customer service through Tinc was top level. Highly recommend!<\/p>",
             "author": "<p>Dave<\/p>"
           }
-        },
-        "testimonial-4": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": "4.5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "author": "<p>Author's name<\/p>"
-          }
-        },
-        "testimonial-5": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": "4.5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "author": "<p>Author's name<\/p>"
-          }
-        },
-        "testimonial-6": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": "4.5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "author": "<p>Author's name<\/p>"
-          }
         }
       },
       "block_order": [
         "testimonial-1",
         "testimonial-2",
-        "testimonial-3",
-        "testimonial-4",
-        "testimonial-5",
-        "testimonial-6"
+        "testimonial-3"
       ],
       "settings": {
         "title": "Testimonials",
@@ -714,6 +687,43 @@
         "background": "#000000",
         "opacity": 50
       }
+    },
+    "165433319205b3cf77": {
+      "type": "apps",
+      "blocks": {
+        "ded496f2-4425-4690-a25c-8264368d6e8e": {
+          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "settings": {
+            "star": "#000",
+            "review_type": "product",
+            "reviews_shown": 20,
+            "header_bg_colour": "#000",
+            "header_colour": "#fff",
+            "header_star_colour": "#fff",
+            "heading_text_colour": "#0E1311",
+            "heading_font": "helvetica_n4",
+            "body_text_colour": "#0E1311",
+            "badge_icon_colour": "#0E1311",
+            "badge_text_colour": "#0E1311",
+            "bg_start_colour": "#ffffff",
+            "bg_end_colour": "#ffffff",
+            "item_border_width": "0px",
+            "item_border_colour": "rgba(0,0,0,0.05)",
+            "item_border_radius": "0px",
+            "item_shadow_size": "10px",
+            "item_shadow_colour": "rgba(0,0,0,0.05)",
+            "enable_rich_snippets": false,
+            "disable_same_customer": false,
+            "logo_colour": "var(--logo-inverted)"
+          }
+        }
+      },
+      "block_order": [
+        "ded496f2-4425-4690-a25c-8264368d6e8e"
+      ],
+      "settings": {
+        "include_padding": true
+      }
     }
   },
   "order": [
@@ -730,6 +740,7 @@
     "dynamic_promo_grid-3",
     "dynamic_testimonials",
     "dynamic_blog_posts",
-    "dynamic_search"
+    "dynamic_search",
+    "165433319205b3cf77"
   ]
 }
