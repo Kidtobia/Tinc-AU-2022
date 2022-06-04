@@ -691,7 +691,7 @@
       "type": "dynamic-blog-posts",
       "settings": {
         "title": "",
-        "blog": "",
+        "blog": "news",
         "show_date": true,
         "show_author": false,
         "show_excerpt": true
