@@ -55,7 +55,7 @@
           "type": "collapsible-tab",
           "settings": {
             "collapsible_tab_heading": "Returns",
-            "collapsible_tab_text": "<p>Use this text to share information about your product.<\/p>"
+            "collapsible_tab_text": "<p>Items can be returned to us with the following details:<\/p><p>- Item is returned within 30 days of purchase.<br\/>- The original receipt or proof of purchase is provided.<br\/>- The returned item is unused with original packaging.<br\/>- Items can be returned for a refund, exchange or gift card.<\/p><p><a href=\"\/pages\/returns-policy\" title=\"Returns Policy\">View full returns information<\/a><\/p>"
           }
         }
       },
