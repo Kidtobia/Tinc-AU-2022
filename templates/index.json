@@ -635,9 +635,9 @@
         "testimonial-2": {
           "type": "testimonial",
           "settings": {
-            "star_rating": "4.5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "author": "<p>Author's name<\/p>"
+            "star_rating": "5",
+            "text": "<p>absolutely love them, and super fast delivery, thanks heaps<\/p>",
+            "author": "<p>Monica Brown<br\/><\/p>"
           }
         },
         "testimonial-3": {
