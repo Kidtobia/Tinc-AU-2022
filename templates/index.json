@@ -621,73 +621,6 @@
         "text_alignment": "center-left"
       }
     },
-    "dynamic_testimonials": {
-      "type": "dynamic-testimonials",
-      "blocks": {
-        "testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": "5",
-            "text": "<p>I love this little lunch bag it has room for his bottle and his lunch and snacks <\/p>",
-            "author": "<p>Vicki Tzineris<\/p>"
-          }
-        },
-        "testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": "5",
-            "text": "<p>absolutely love them, and super fast delivery, thanks heaps<\/p>",
-            "author": "<p>Monica Brown<br\/><\/p>"
-          }
-        },
-        "testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "star_rating": "5",
-            "text": "<p>Awesome product quality and the customer service through Tinc was top level. Highly recommend!<\/p>",
-            "author": "<p>Dave<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial-1",
-        "testimonial-2",
-        "testimonial-3"
-      ],
-      "settings": {
-        "title": "Testimonials",
-        "image_crop": "circle",
-        "text_size": "large"
-      }
-    },
-    "dynamic_blog_posts": {
-      "type": "dynamic-blog-posts",
-      "settings": {
-        "title": "",
-        "blog": "news",
-        "show_date": true,
-        "show_author": false,
-        "show_excerpt": true
-      }
-    },
-    "dynamic_search": {
-      "type": "dynamic-search",
-      "disabled": true,
-      "settings": {
-        "title": "Search",
-        "text": "Use this section to help customers find the products they're looking for.",
-        "placeholder": "What are you looking for?",
-        "filter_search_by": "disabled",
-        "enable_live_search": true,
-        "enable_live_search_images": false,
-        "enable_live_search_articles_pages": false,
-        "position": "center-center",
-        "show-overlay": false,
-        "color": "#ffffff",
-        "background": "#000000",
-        "opacity": 50
-      }
-    },
     "165433319205b3cf77": {
       "type": "apps",
       "blocks": {
@@ -724,6 +657,34 @@
       "settings": {
         "include_padding": true
       }
+    },
+    "dynamic_blog_posts": {
+      "type": "dynamic-blog-posts",
+      "settings": {
+        "title": "",
+        "blog": "news",
+        "show_date": true,
+        "show_author": false,
+        "show_excerpt": true
+      }
+    },
+    "dynamic_search": {
+      "type": "dynamic-search",
+      "disabled": true,
+      "settings": {
+        "title": "Search",
+        "text": "Use this section to help customers find the products they're looking for.",
+        "placeholder": "What are you looking for?",
+        "filter_search_by": "disabled",
+        "enable_live_search": true,
+        "enable_live_search_images": false,
+        "enable_live_search_articles_pages": false,
+        "position": "center-center",
+        "show-overlay": false,
+        "color": "#ffffff",
+        "background": "#000000",
+        "opacity": 50
+      }
     }
   },
   "order": [
@@ -738,9 +699,8 @@
     "dynamic_featured_collection-2",
     "dynamic_promo_grid-2",
     "dynamic_promo_grid-3",
-    "dynamic_testimonials",
+    "165433319205b3cf77",
     "dynamic_blog_posts",
-    "dynamic_search",
-    "165433319205b3cf77"
+    "dynamic_search"
   ]
 }
