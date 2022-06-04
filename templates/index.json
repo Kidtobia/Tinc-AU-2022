@@ -643,9 +643,9 @@
         "testimonial-3": {
           "type": "testimonial",
           "settings": {
-            "star_rating": "4.5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
-            "author": "<p>Author's name<\/p>"
+            "star_rating": "5",
+            "text": "<p>Awesome product quality and the customer service through Tinc was top level. Highly recommend!<\/p>",
+            "author": "<p>Dave<\/p>"
           }
         },
         "testimonial-4": {
