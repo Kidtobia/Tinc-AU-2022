@@ -176,11 +176,11 @@
               "menu": "shop-online"
             }
           },
-          "static-footer-1": {
-            "type": "newsletter",
+          "586e743f-3caa-46c6-8769-6a0de650bca7": {
+            "type": "rich_text",
             "settings": {
-              "title": "Subscribe",
-              "text": "<p>Invite customers to join your mailing list.<\/p>"
+              "title": "Tinc Australia",
+              "text": "<p>6B Cleland Close<br\/>Clarkson WA 6030<br\/>(08) 6201 9060<br\/>hello@tinc.net.au<\/p>"
             }
           }
         },
@@ -188,7 +188,7 @@
           "1493171899575",
           "static-footer-0",
           "1498182586280",
-          "static-footer-1"
+          "586e743f-3caa-46c6-8769-6a0de650bca7"
         ],
         "settings": {
           "payment_icons": true,
