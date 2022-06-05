@@ -27,6 +27,7 @@
           "type": "slide",
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-01_933662be-d97d-44a8-86b4-cc1f5ddd9dff.png",
+            "mobile_background_image": "shopify:\/\/shop_images\/Stylish-Stationery-502x606.png",
             "title": "",
             "text": "",
             "color": "#1d1d1d",
