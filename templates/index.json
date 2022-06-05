@@ -702,6 +702,12 @@
       "settings": {
         "include_padding": true
       }
+    },
+    "16544064102f776726": {
+      "type": "dynamic-custom-liquid",
+      "settings": {
+        "custom_liquid": "Sign up to Tinc News and  get 15% off your next full price shop with us!\n\n<div class=\"klaviyo-form-RHVyMU\"><\/div>"
+      }
     }
   },
   "order": [
@@ -719,6 +725,7 @@
     "165433319205b3cf77",
     "dynamic_blog_posts",
     "dynamic_search",
-    "1654335293c0b4ec97"
+    "1654335293c0b4ec97",
+    "16544064102f776726"
   ]
 }
