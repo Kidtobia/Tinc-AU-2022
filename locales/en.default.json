@@ -504,5 +504,11 @@
     "page": {
       "title": "Page title"
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": " ",
+      "learn_more": " "
+    }
   }
 }
