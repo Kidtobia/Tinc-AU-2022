@@ -665,6 +665,7 @@
     },
     "dynamic_blog_posts": {
       "type": "dynamic-blog-posts",
+      "disabled": true,
       "settings": {
         "title": "",
         "blog": "news",
