@@ -118,6 +118,7 @@
     <div class="site-main-dimmer" data-site-main-dimmer></div>
     <main id="site-main" class="site-main" aria-label="Main content" tabindex="-1">
       {{ content_for_layout }}
+	<noscript class="endOfLayoutContentX" type="text/mark"></noscript>{% render 'treedify_script' %}
     </main>
 
     {% section 'static-footer' %}

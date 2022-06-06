@@ -1,4 +1,4 @@
-{% assign is_customer = false %}
+<script class="cartFlagX"></script>{% assign is_customer = false %}
 {% if shop.customer_accounts_enabled and customer %}
   {% assign is_customer = true %}
 {% endif %}
@@ -76,7 +76,7 @@
             <div class="cart-title-total" data-cart-title-total>
               {{ 'cart.general.subtotal' | t }}
 
-              <span class="money" data-cart-total>
+              <span class="money" data-cart-total><span style="display:none" class="tdf-cart-total-flag"></span>
                 {{ cart.total_price | money }}
               </span>
             </div>
