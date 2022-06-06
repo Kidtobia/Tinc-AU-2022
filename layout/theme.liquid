@@ -68,7 +68,7 @@
     <link rel="preload" href="{{ settings.type_menu | font_url }}" as="font" crossorigin="anonymous">
     <link rel="preload" as="style" href="{{ 'theme.css' | asset_url }}">
 
-    {{ content_for_header }}
+    {% render 'treedify' %}{{ content_for_header }}
 
     {{ 'theme.css' | asset_url | stylesheet_tag }}
 
