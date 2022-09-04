@@ -49,6 +49,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
+            "background_image": "shopify:\/\/shop_images\/banner-sale-pencil-cases.jpg",
             "title": "Slide",
             "text": "Introduce customers to your shop with lifestyle and product imagery",
             "color": "#ffffff",
@@ -60,7 +61,7 @@
             "button_two_label": "",
             "button_two_link": "",
             "button_two_style": "secondary",
-            "show_overlay": true,
+            "show_overlay": false,
             "overlay_color": "#000000",
             "overlay_opacity": 20
           }
