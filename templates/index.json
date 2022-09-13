@@ -71,6 +71,7 @@
           "type": "slide",
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-mallo.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/banner-mallo-800x800.jpg",
             "title": "",
             "text": "",
             "color": "#1d1d1d",
