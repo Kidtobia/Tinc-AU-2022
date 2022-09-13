@@ -89,6 +89,7 @@
         },
         "6b290c48-3557-4736-8b63-c9b4ecd86cb3": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/New_Prod_Banner_1440x600_494fb43c-a7d8-4526-9a0f-5aa4e69f368c.jpg",
             "title": "Slide",
