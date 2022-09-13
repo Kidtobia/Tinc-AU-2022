@@ -26,6 +26,7 @@
         },
         "slide-2": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-01_933662be-d97d-44a8-86b4-cc1f5ddd9dff.png",
             "mobile_background_image": "shopify:\/\/shop_images\/Stylish-Stationery-502x606.png",
@@ -68,14 +69,14 @@
         },
         "slide-4": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "title": "Slide",
-            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "background_image": "shopify:\/\/shop_images\/banner-mallo.jpg",
+            "title": "",
+            "text": "",
             "color": "#1d1d1d",
             "link": "",
             "text_alignment": "left",
-            "button_one_label": "Button",
+            "button_one_label": "",
             "button_one_link": "",
             "button_one_style": "primary",
             "button_two_label": "",
