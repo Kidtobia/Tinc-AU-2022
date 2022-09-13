@@ -82,9 +82,29 @@
             "button_two_label": "",
             "button_two_link": "",
             "button_two_style": "secondary",
-            "show_overlay": true,
+            "show_overlay": false,
             "overlay_color": "#000000",
             "overlay_opacity": 5
+          }
+        },
+        "6b290c48-3557-4736-8b63-c9b4ecd86cb3": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/New_Prod_Banner_1440x600_494fb43c-a7d8-4526-9a0f-5aa4e69f368c.jpg",
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#FFFFFF",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
           }
         }
       },
@@ -92,7 +112,8 @@
         "slide-1",
         "slide-2",
         "slide-3",
-        "slide-4"
+        "slide-4",
+        "6b290c48-3557-4736-8b63-c9b4ecd86cb3"
       ],
       "settings": {
         "enable_autoplay": true,
