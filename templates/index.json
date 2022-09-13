@@ -119,7 +119,7 @@
         "enable_autoplay": true,
         "autoplay_duration": 9,
         "slideshow_width": "content",
-        "slideshow_height": "large",
+        "slideshow_height": "original",
         "slideshow_height_mobile": "x-large",
         "slideshow_text_below_image": false
       }
