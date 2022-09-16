@@ -96,7 +96,8 @@
     </script>
     {% comment %}Inject theme-object end{% endcomment %}
 
-  </head>
+    {% render 'judgeme_core' %}
+</head>
 
   <body class="template-{{ template.name }}" data-instant-allow-query-string {% if settings.reduce_animations %}data-reduce-animations{% endif %}>
     <script>

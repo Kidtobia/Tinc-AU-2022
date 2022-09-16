@@ -57,6 +57,11 @@
             "collapsible_tab_heading": "Returns",
             "collapsible_tab_text": "<p>Items can be returned to us with the following details:<\/p><p>- Item is returned within 30 days of purchase.<br\/>- The original receipt or proof of purchase is provided.<br\/>- The returned item is unused with original packaging.<br\/>- Items can be returned for a refund, exchange or gift card.<\/p><p><a href=\"\/pages\/returns-policy\" title=\"Returns Policy\">View full returns information<\/a><\/p>"
           }
+        },
+        "judgeme_preview_badge_product_page_35e975c7": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -65,6 +70,7 @@
         "059b48f6-f609-4864-aba4-d6f15761b922",
         "description",
         "price",
+        "judgeme_preview_badge_product_page_35e975c7",
         "form",
         "share",
         "813227a0-a65e-49f9-9bbd-39ee565bfaa4",
@@ -98,10 +104,26 @@
       "settings": {
         "enable_recently_viewed_products": true
       }
+    },
+    "judgeme_section_review_widget_4ca6": {
+      "type": "apps",
+      "blocks": {
+        "judgeme_review_widget_17a18975": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_review_widget_17a18975"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
+    "judgeme_section_review_widget_4ca6",
     "recommendations",
     "reviews",
     "recently-viewed"
