@@ -13,8 +13,14 @@
           "settings": {
           }
         },
+        "judgeme_preview_badge_product_page_35e975c7": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "059b48f6-f609-4864-aba4-d6f15761b922": {
           "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-rating-output\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+          "disabled": true,
           "settings": {
           }
         },
@@ -57,20 +63,15 @@
             "collapsible_tab_heading": "Returns",
             "collapsible_tab_text": "<p>Items can be returned to us with the following details:<\/p><p>- Item is returned within 30 days of purchase.<br\/>- The original receipt or proof of purchase is provided.<br\/>- The returned item is unused with original packaging.<br\/>- Items can be returned for a refund, exchange or gift card.<\/p><p><a href=\"\/pages\/returns-policy\" title=\"Returns Policy\">View full returns information<\/a><\/p>"
           }
-        },
-        "judgeme_preview_badge_product_page_35e975c7": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "title",
         "vendor",
+        "judgeme_preview_badge_product_page_35e975c7",
         "059b48f6-f609-4864-aba4-d6f15761b922",
         "description",
         "price",
-        "judgeme_preview_badge_product_page_35e975c7",
         "form",
         "share",
         "813227a0-a65e-49f9-9bbd-39ee565bfaa4",
@@ -87,24 +88,6 @@
         "gallery_click_to_zoom": "always"
       }
     },
-    "recommendations": {
-      "type": "static-product-recommendations",
-      "settings": {
-        "show_product_recommendations": true,
-        "product_recommendations_heading": "You may also like"
-      }
-    },
-    "reviews": {
-      "type": "static-product-reviews",
-      "settings": {
-      }
-    },
-    "recently-viewed": {
-      "type": "static-recently-viewed",
-      "settings": {
-        "enable_recently_viewed_products": true
-      }
-    },
     "judgeme_section_review_widget_4ca6": {
       "type": "apps",
       "blocks": {
@@ -118,6 +101,26 @@
         "judgeme_review_widget_17a18975"
       ],
       "settings": {
+        "include_padding": true
+      }
+    },
+    "recommendations": {
+      "type": "static-product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_heading": "You may also like"
+      }
+    },
+    "reviews": {
+      "type": "static-product-reviews",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "recently-viewed": {
+      "type": "static-recently-viewed",
+      "settings": {
+        "enable_recently_viewed_products": true
       }
     }
   },
