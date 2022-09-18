@@ -95,7 +95,7 @@
             "background_image": "shopify:\/\/shop_images\/New_Prod_Banner_1440x600_494fb43c-a7d8-4526-9a0f-5aa4e69f368c.jpg",
             "title": "Slide",
             "text": "Introduce customers to your shop with lifestyle and product imagery",
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "link": "",
             "text_alignment": "center",
             "button_one_label": "Button",
@@ -654,35 +654,15 @@
     "165433319205b3cf77": {
       "type": "apps",
       "blocks": {
-        "ded496f2-4425-4690-a25c-8264368d6e8e": {
-          "type": "shopify:\/\/apps\/reviews-io\/blocks\/reviewsio-card-carousel\/92a082e5-b297-4e88-b428-ac96cbc505f9",
+        "b6fe272f-cbef-4e03-9e0f-b836e436280e": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "star": "#ffab41",
-            "review_type": "product",
-            "reviews_shown": 20,
-            "header_bg_colour": "#f7698d",
-            "header_colour": "#ffffff",
-            "header_star_colour": "#ffffff",
-            "heading_text_colour": "#0e1311",
-            "heading_font": "helvetica_n4",
-            "body_text_colour": "#0e1311",
-            "badge_icon_colour": "#0e1311",
-            "badge_text_colour": "#0e1311",
-            "bg_start_colour": "#ffffff",
-            "bg_end_colour": "#ffffff",
-            "item_border_width": "0px",
-            "item_border_colour": "#000000",
-            "item_border_radius": "0px",
-            "item_shadow_size": "10px",
-            "item_shadow_colour": "#000000",
-            "enable_rich_snippets": false,
-            "disable_same_customer": false,
-            "logo_colour": "var(--logo-inverted)"
+            "maxwidth": 1080
           }
         }
       },
       "block_order": [
-        "ded496f2-4425-4690-a25c-8264368d6e8e"
+        "b6fe272f-cbef-4e03-9e0f-b836e436280e"
       ],
       "settings": {
         "include_padding": true
