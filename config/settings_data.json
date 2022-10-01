@@ -134,12 +134,13 @@
           "quick_links": "",
           "menu": "main-menu",
           "secondary_menu": "",
-          "small_promo_heading": "",
-          "small_promo_text": "",
+          "small_promo_heading": "FREE SHIPPING",
+          "small_promo_text": "<p>When you spend over $75<\/p>",
           "small_promo_text_mobile": "",
           "small_promo_link": "",
           "small_promo_icon": "none",
-          "cart_icon": "icon-cart"
+          "image": "shopify:\/\/shop_images\/Tinc_van_logo_46x35_ecca5ff4-4c41-4654-83e5-ee5eac305c66.png",
+          "cart_icon": "icon-bag"
         }
       },
       "static-footer": {
