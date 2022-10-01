@@ -111,9 +111,9 @@
         },
         "0aed6f63-6419-4c1f-b118-8e9b9e3eefb0": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Hugga_Week_-_Bannar.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/Hugga_Week_-_Square.jpg",
             "title": "Slide",
             "text": "Introduce customers to your shop with lifestyle and product imagery",
             "color": "#FFFFFF",
