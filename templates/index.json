@@ -108,6 +108,27 @@
             "overlay_color": "#000000",
             "overlay_opacity": 50
           }
+        },
+        "0aed6f63-6419-4c1f-b118-8e9b9e3eefb0": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/Hugga_Week_-_Bannar.jpg",
+            "title": "Slide",
+            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "color": "#FFFFFF",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "Button",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": true,
+            "overlay_color": "#000000",
+            "overlay_opacity": 10
+          }
         }
       },
       "block_order": [
@@ -115,7 +136,8 @@
         "slide-2",
         "slide-3",
         "slide-4",
-        "6b290c48-3557-4736-8b63-c9b4ecd86cb3"
+        "6b290c48-3557-4736-8b63-c9b4ecd86cb3",
+        "0aed6f63-6419-4c1f-b118-8e9b9e3eefb0"
       ],
       "settings": {
         "enable_autoplay": true,
