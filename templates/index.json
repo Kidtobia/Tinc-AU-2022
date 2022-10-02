@@ -69,6 +69,7 @@
         },
         "slide-4": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-mallo.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/banner-mallo-800x800.jpg",
@@ -111,17 +112,16 @@
         },
         "0aed6f63-6419-4c1f-b118-8e9b9e3eefb0": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Hugga_Week_-_Bannar.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/Hugga_Week_-_Square.jpg",
-            "title": "Slide",
-            "text": "Introduce customers to your shop with lifestyle and product imagery",
+            "title": "It's Hugga Week!",
+            "text": "Get 20% OFF EVERYTHING GREEN",
             "color": "#ffffff",
             "link": "",
             "text_alignment": "center",
-            "button_one_label": "Button",
-            "button_one_link": "",
+            "button_one_label": "Shop Now",
+            "button_one_link": "https:\/\/tinc.net.au\/collections\/hugga",
             "button_one_style": "primary",
             "button_two_label": "",
             "button_two_link": "",
