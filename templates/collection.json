@@ -7,12 +7,12 @@
           "type": "filter",
           "settings": {
             "filter_option": "faceted",
-            "filter_groups": "expand_first",
+            "filter_groups": "collapse_all",
             "show_filter_product_count": true,
             "filter_style": "groups",
             "filter_limit": "999",
             "grid_categories": "",
-            "custom_ordered_categories": "",
+            "custom_ordered_categories": "Color",
             "custom_ordered_tags": "",
             "excluded_tags": "",
             "excluded_groups": ""
