@@ -246,12 +246,6 @@
         "settings": {
         }
       },
-      "4526402582171286672": {
-        "type": "shopify:\/\/apps\/selly-promotion-pricing\/blocks\/app-embed-block\/351afe80-738d-4417-9b66-e345ff249052",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "judgeme_core_2d2d2482": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
@@ -268,6 +262,12 @@
       "6174324309569838175": {
         "type": "shopify:\/\/apps\/smile-rewards-loyalty\/blocks\/smile-shopify-app\/2fae4e25-1841-4ea2-bc02-bd548478c4f6",
         "disabled": false,
+        "settings": {
+        }
+      },
+      "4526402582171286672": {
+        "type": "shopify:\/\/apps\/selly-promotion-pricing\/blocks\/app-embed-block\/351afe80-738d-4417-9b66-e345ff249052",
+        "disabled": true,
         "settings": {
         }
       }
