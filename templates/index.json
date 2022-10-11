@@ -235,7 +235,7 @@
     "2e62aa47-b654-4fb1-b775-f35193bc8c64": {
       "type": "dynamic-featured-collection",
       "settings": {
-        "title": "Tonkin Collection",
+        "title": "",
         "layout": "grid",
         "collection": "tonkin",
         "product_count": 10,
