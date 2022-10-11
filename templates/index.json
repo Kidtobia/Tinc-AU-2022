@@ -232,8 +232,20 @@
         "mobile_layout": "grid"
       }
     },
+    "2e62aa47-b654-4fb1-b775-f35193bc8c64": {
+      "type": "dynamic-featured-collection",
+      "settings": {
+        "title": "Tonkin Collection",
+        "layout": "grid",
+        "collection": "tonkin",
+        "product_count": 10,
+        "cta_label": "SHOP NOW",
+        "cta_button_style": "primary"
+      }
+    },
     "dynamic_featured_collection": {
       "type": "dynamic-featured-collection",
+      "disabled": true,
       "blocks": {
         "view-all-card": {
           "type": "view_all_card",
@@ -764,6 +776,7 @@
   "order": [
     "dynamic_slideshow",
     "dynamic_highlights_banner",
+    "2e62aa47-b654-4fb1-b775-f35193bc8c64",
     "dynamic_featured_collection",
     "dynamic_promo_mosaic",
     "dynamic_featured_product",
