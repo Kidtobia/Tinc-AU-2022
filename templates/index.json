@@ -232,6 +232,34 @@
         "mobile_layout": "grid"
       }
     },
+    "dynamic_featured_collection": {
+      "type": "dynamic-featured-collection",
+      "blocks": {
+        "view-all-card": {
+          "type": "view_all_card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Card-New-Arrivals.jpg",
+            "text_alignment": "center-left",
+            "pre_heading": "",
+            "heading": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "view-all-card"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "grid",
+        "collection": "new-arrivals",
+        "product_count": 9,
+        "cta_label": "",
+        "cta_button_style": "primary"
+      }
+    },
     "dynamic_promo_mosaic": {
       "type": "dynamic-promo-mosaic",
       "blocks": {
@@ -308,34 +336,6 @@
         "text_alignment": "top-left",
         "maintain_aspect_ratio": true,
         "compress_blocks": false
-      }
-    },
-    "dynamic_featured_collection": {
-      "type": "dynamic-featured-collection",
-      "blocks": {
-        "view-all-card": {
-          "type": "view_all_card",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Card-New-Arrivals.jpg",
-            "text_alignment": "center-left",
-            "pre_heading": "",
-            "heading": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "view-all-card"
-      ],
-      "settings": {
-        "title": "",
-        "layout": "grid",
-        "collection": "new-arrivals",
-        "product_count": 9,
-        "cta_label": "",
-        "cta_button_style": "primary"
       }
     },
     "dynamic_featured_product": {
@@ -764,8 +764,8 @@
   "order": [
     "dynamic_slideshow",
     "dynamic_highlights_banner",
-    "dynamic_promo_mosaic",
     "dynamic_featured_collection",
+    "dynamic_promo_mosaic",
     "dynamic_featured_product",
     "dynamic_promo_grid",
     "dynamic_collection_list",
