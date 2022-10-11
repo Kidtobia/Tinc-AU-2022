@@ -150,7 +150,7 @@
             "button_two_style": "primary",
             "show_overlay": false,
             "overlay_color": "#000000",
-            "overlay_opacity": 50
+            "overlay_opacity": 1
           }
         }
       },
