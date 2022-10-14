@@ -71,6 +71,7 @@
     "continue_shopping_url": "shopify:\/\/collections\/all",
     "continue_url_cart": true,
     "continue_url_404": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Logosmall_300x148_9805e84c-50cf-4787-b8d0-ab103c8a6812.png",
     "product_show_sku": false,
     "product_social_sharing": false,
     "product_grid_show_quickshop": "always",
