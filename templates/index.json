@@ -152,6 +152,28 @@
             "overlay_color": "#000000",
             "overlay_opacity": 1
           }
+        },
+        "dc4fb3b2-2e35-43b9-ba80-7ab0d0f4c295": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Bannar.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Square.jpg",
+            "title": "",
+            "text": "",
+            "color": "#FFFFFF",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "secondary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
         }
       },
       "block_order": [
@@ -161,7 +183,8 @@
         "slide-4",
         "6b290c48-3557-4736-8b63-c9b4ecd86cb3",
         "0aed6f63-6419-4c1f-b118-8e9b9e3eefb0",
-        "419168f4-4bf1-4bf4-a5e6-625f53ee90be"
+        "419168f4-4bf1-4bf4-a5e6-625f53ee90be",
+        "dc4fb3b2-2e35-43b9-ba80-7ab0d0f4c295"
       ],
       "settings": {
         "enable_autoplay": true,
