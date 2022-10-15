@@ -134,6 +134,7 @@
         },
         "419168f4-4bf1-4bf4-a5e6-625f53ee90be": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-tonkin-20-percent-off.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/banner-tonkin-square-20-percent-off.jpg",
@@ -155,14 +156,13 @@
         },
         "dc4fb3b2-2e35-43b9-ba80-7ab0d0f4c295": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Bannar.jpg",
-            "mobile_background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Square.jpg",
+            "background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Banner_Shop_Now.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Square_Shop_NOw.jpg",
             "title": "",
             "text": "",
-            "color": "#FFFFFF",
-            "link": "",
+            "color": "#ffffff",
+            "link": "shopify:\/\/collections\/mallo",
             "text_alignment": "center",
             "button_one_label": "",
             "button_one_link": "",
@@ -260,7 +260,7 @@
       "settings": {
         "title": "",
         "layout": "grid",
-        "collection": "tonkin",
+        "collection": "mallo",
         "product_count": 10,
         "cta_label": "SHOP NOW",
         "cta_button_style": "primary"
