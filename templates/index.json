@@ -156,6 +156,7 @@
         },
         "dc4fb3b2-2e35-43b9-ba80-7ab0d0f4c295": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Banner_Shop_Now.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/Mallo_Week_-_Square_Shop_NOw.jpg",
@@ -177,13 +178,12 @@
         },
         "2969e123-9400-4bc4-ae38-2017a4987504": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Kronk_Week-main-banner.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/Kronk_Week_square-banner.jpg",
             "title": "",
             "text": "",
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "link": "https:\/\/tinc.net.au\/collections\/kronk",
             "text_alignment": "center",
             "button_one_label": "",
