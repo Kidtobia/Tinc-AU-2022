@@ -315,8 +315,8 @@
         "settings": {
           "cart-button-status": true,
           "cart-position": "after-checkout-container",
-          "button-text-long": "Get it paid for with",
-          "button-text-medium": "Get it paid for with",
+          "button-text-long": "Get it paid with",
+          "button-text-medium": "Get it paid with",
           "button-text-short": "Get it paid",
           "theme": "vanilla",
           "button-colour": "#ffffff",
@@ -325,7 +325,7 @@
           "border-radius": 4,
           "margin-top": 10,
           "margin-bottom": 10,
-          "width": 13,
+          "width": 20,
           "alignment": "left"
         }
       }

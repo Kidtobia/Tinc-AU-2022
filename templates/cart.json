@@ -14,6 +14,7 @@
       "blocks": {
         "a1feed58-b1fe-4f5d-90dc-671e3a715870": {
           "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-button\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
+          "disabled": true,
           "settings": {
             "button-text-long": "Get it paid for you with",
             "button-text-medium": "Get it paid for with",
