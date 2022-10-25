@@ -266,26 +266,6 @@
         "settings": {
         }
       },
-      "10576504925779971753": {
-        "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-cart-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
-        "disabled": false,
-        "settings": {
-          "cart-button-status": true,
-          "cart-position": "after-checkout-button",
-          "button-text-long": "Get it paid for with",
-          "button-text-medium": "Get it paid for with",
-          "button-text-short": "Get it paid",
-          "theme": "vanilla",
-          "button-colour": "#ffffff",
-          "button-background-colour": "#6fcde4",
-          "button-height": 60,
-          "border-radius": 4,
-          "margin-top": 10,
-          "margin-bottom": 10,
-          "width": 47,
-          "alignment": "center"
-        }
-      },
       "6593136046357153830": {
         "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-flyout-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
         "disabled": false,
@@ -327,6 +307,26 @@
           "callout-theme": "blue",
           "modal-theme": "dark",
           "modal-icon": "shirt"
+        }
+      },
+      "10576504925779971753": {
+        "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-cart-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
+        "disabled": true,
+        "settings": {
+          "cart-button-status": false,
+          "cart-position": "after-checkout-button",
+          "button-text-long": "Get it paid for with",
+          "button-text-medium": "Get it paid for with",
+          "button-text-short": "Get it paid",
+          "theme": "vanilla",
+          "button-colour": "#ffffff",
+          "button-background-colour": "#6fcde4",
+          "button-height": 60,
+          "border-radius": 4,
+          "margin-top": 10,
+          "margin-bottom": 10,
+          "width": 47,
+          "alignment": "center"
         }
       }
     }
