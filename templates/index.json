@@ -306,7 +306,7 @@
       "settings": {
         "title": "",
         "layout": "grid",
-        "collection": "kronk",
+        "collection": "best-sellers",
         "product_count": 10,
         "cta_label": "SHOP NOW",
         "cta_button_style": "primary"
