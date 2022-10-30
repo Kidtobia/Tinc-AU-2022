@@ -178,6 +178,7 @@
         },
         "2969e123-9400-4bc4-ae38-2017a4987504": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Kronk_Week-main-banner.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/Kronk_Week_-_Square-Center_d89df0c4-f468-4a07-8213-09027483b801.jpg",
@@ -199,7 +200,6 @@
         },
         "adf975a9-6a40-409c-8104-7f508d6ad6cc": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-bestsellers_094eb7f9-e4fb-4044-97a2-6b9c6530116d.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/banner-bestsellers-square_d85b5881-dde5-4a17-93da-1edf44b7e514.jpg",
