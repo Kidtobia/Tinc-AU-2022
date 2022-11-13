@@ -67,6 +67,7 @@
     "social_youtube": "",
     "social_linkedin": "",
     "social_email": "hello@tinc.net.au",
+    "favicon": "shopify:\/\/shop_images\/favicon.png",
     "enable_checkout_lock_icon": false,
     "continue_shopping_url": "shopify:\/\/collections\/all",
     "continue_url_cart": true,
@@ -124,7 +125,7 @@
         "settings": {
           "sticky_header": true,
           "full_width_header": false,
-          "logo": "shopify:\/\/shop_images\/Logosmall_300x148_9805e84c-50cf-4787-b8d0-ab103c8a6812.png",
+          "logo": "shopify:\/\/shop_images\/Tinc-Logo-Christmas-300x148.png",
           "logo_height": 78,
           "logo_width": 150,
           "filter_search_by": "disabled",
