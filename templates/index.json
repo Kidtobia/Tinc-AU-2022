@@ -240,6 +240,26 @@
             "overlay_color": "#000000",
             "overlay_opacity": 50
           }
+        },
+        "8b4a57e0-ea15-4ade-b208-0c2d21ab8ce2": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/black-friday-sale-bundles.jpg",
+            "title": "",
+            "text": "",
+            "color": "#FFFFFF",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
         }
       },
       "block_order": [
@@ -253,7 +273,8 @@
         "dc4fb3b2-2e35-43b9-ba80-7ab0d0f4c295",
         "2969e123-9400-4bc4-ae38-2017a4987504",
         "adf975a9-6a40-409c-8104-7f508d6ad6cc",
-        "c5b89ef1-ee80-4af9-b981-c71197a972ba"
+        "c5b89ef1-ee80-4af9-b981-c71197a972ba",
+        "8b4a57e0-ea15-4ade-b208-0c2d21ab8ce2"
       ],
       "settings": {
         "enable_autoplay": true,
