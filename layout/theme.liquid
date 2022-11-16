@@ -97,7 +97,10 @@
     {% comment %}Inject theme-object end{% endcomment %}
 
     {% render 'judgeme_core' %}
-</head>
+
+                  {% include 'bss-product-labels-configs' %}
+                    </head>
+             
 
   <body class="template-{{ template.name }}" data-instant-allow-query-string {% if settings.reduce_animations %}data-reduce-animations{% endif %}>
     <script>
@@ -486,5 +489,5 @@
     <script defer src="https://cdn.pickystory.com/widget/dist/latest/pickystory-widget.min.js"></script>
   {% endif %}
   <!-- PickyStory end snippet "main_widget_script" -->
-{% render 'th-bundle-product' %}</body>
+{% render 'th-bundle-product' %}{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}</body>
 </html>
