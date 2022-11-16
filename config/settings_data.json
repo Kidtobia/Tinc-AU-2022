@@ -307,12 +307,6 @@
           "alignment": "center"
         }
       },
-      "5918445685253060206": {
-        "type": "shopify:\/\/apps\/bundler-product-bundles\/blocks\/bundler-script-append\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "7420477900589326039": {
         "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-product-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
         "disabled": true,
@@ -334,6 +328,12 @@
           "callout-theme": "blue",
           "modal-theme": "dark",
           "modal-icon": "shirt"
+        }
+      },
+      "3824936769257688723": {
+        "type": "shopify:\/\/apps\/sami-product-labels-badges\/blocks\/app-embed-block\/b9b44663-5d51-4be1-8104-faedd68da8c5",
+        "disabled": false,
+        "settings": {
         }
       }
     }
