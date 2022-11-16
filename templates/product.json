@@ -43,11 +43,13 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
           }
         },
         "813227a0-a65e-49f9-9bbd-39ee565bfaa4": {
           "type": "custom-liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<p style=\"font-size:10.5pt\"><b>Payment options:<\/p>\n                        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0085\/7135\/5236\/files\/payment-icons.png?v=1631169563\" alt=\"Payment Methods\" height=\"30\">"
           }
