@@ -72,6 +72,13 @@
 
     {{ 'theme.css' | asset_url | stylesheet_tag }}
 
+    <script>
+      window.Samita = window.Samita || {}
+      Samita.ProductLabelsParams = Samita.ProductLabelsParams || {}
+      Samita.ProductLabelsParams.selectors = {
+        productElementSelectors: [".product--container"]
+      }
+    </script>
     {% comment %}Inject theme-object begin{% endcomment %}
     <script>
       window.Theme = window.Theme || {};
