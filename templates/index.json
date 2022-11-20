@@ -244,6 +244,7 @@
         },
         "8b4a57e0-ea15-4ade-b208-0c2d21ab8ce2": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/black-friday-sale-bundles.jpg",
             "title": "",
