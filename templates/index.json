@@ -261,6 +261,27 @@
             "overlay_color": "#000000",
             "overlay_opacity": 50
           }
+        },
+        "debaf2b4-237f-4122-a0cc-284e7d8ccd8c": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/Black_Friday_22_Banner-01_1440x600_432f6155-1d90-4ddf-978c-08e549cdc696.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/Black_Friday_22_Banner-02_800x800_bc82ebd7-35ed-4456-911a-02df31ce49e0.jpg",
+            "title": "",
+            "text": "",
+            "color": "#FFFFFF",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
         }
       },
       "block_order": [
@@ -275,7 +296,8 @@
         "2969e123-9400-4bc4-ae38-2017a4987504",
         "adf975a9-6a40-409c-8104-7f508d6ad6cc",
         "c5b89ef1-ee80-4af9-b981-c71197a972ba",
-        "8b4a57e0-ea15-4ade-b208-0c2d21ab8ce2"
+        "8b4a57e0-ea15-4ade-b208-0c2d21ab8ce2",
+        "debaf2b4-237f-4122-a0cc-284e7d8ccd8c"
       ],
       "settings": {
         "enable_autoplay": true,
