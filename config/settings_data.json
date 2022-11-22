@@ -212,13 +212,13 @@
       "static-announcement": {
         "type": "static-announcement",
         "settings": {
-          "show_announcement": false,
+          "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "Announce something here",
-          "announcement_text_mobile": "",
-          "announcement_link": "",
-          "announcement_color": "#000000",
-          "announcement_background": "#f5f3ed"
+          "announcement_text": "BLACK FRIDAY BUNDLE DEALS - SAVE 30% OFF",
+          "announcement_text_mobile": "BLACK FRIDAY BUNDLE DEALS - SAVE 30% OFF",
+          "announcement_link": "shopify:\/\/collections\/black-friday-bundles",
+          "announcement_color": "#ffffff",
+          "announcement_background": "#ff0000"
         }
       },
       "static-utility-bar": {
