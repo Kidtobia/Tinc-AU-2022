@@ -244,6 +244,7 @@
         },
         "8b4a57e0-ea15-4ade-b208-0c2d21ab8ce2": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/black-friday-sale-bundles.jpg",
             "title": "",
@@ -264,7 +265,6 @@
         },
         "debaf2b4-237f-4122-a0cc-284e7d8ccd8c": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Black_Friday_22_Banner-01_1440x600_432f6155-1d90-4ddf-978c-08e549cdc696.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/Black_Friday_22_Banner-02_800x800_bc82ebd7-35ed-4456-911a-02df31ce49e0.jpg",
