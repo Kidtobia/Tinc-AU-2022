@@ -5,9 +5,9 @@
       "blocks": {
         "slide-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-02.png",
+            "mobile_background_image": "shopify:\/\/shop_images\/Christmas-Sale-Desktop_b104a537-f18b-42be-8b96-f69dc2bf8997.png",
             "title": "",
             "text": "",
             "color": "#ffffff",
@@ -265,6 +265,7 @@
         },
         "debaf2b4-237f-4122-a0cc-284e7d8ccd8c": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/Black_Friday_22_Banner-01_1440x600_432f6155-1d90-4ddf-978c-08e549cdc696.jpg",
             "mobile_background_image": "shopify:\/\/shop_images\/Black_Friday_22_Banner-02_800x800_bc82ebd7-35ed-4456-911a-02df31ce49e0.jpg",
