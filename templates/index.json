@@ -310,46 +310,65 @@
         "slideshow_text_below_image": false
       }
     },
-    "b4060a51-1997-4b1d-ade1-1134f97247fb": {
-      "type": "dynamic-logo-list",
+    "56935623-71ac-48bb-8a52-2a83bb99342f": {
+      "type": "dynamic-collection-list",
       "blocks": {
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-0": {
-          "type": "logo",
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-0": {
+          "type": "collection",
           "settings": {
+            "collection": "creative-kids",
             "image": "shopify:\/\/shop_images\/creative-kids_087f8133-015c-4d6a-ab19-7cdc9364ced4.jpg",
-            "link": "shopify:\/\/collections\/creative-kids"
+            "title": "For the Little Picasso"
           }
         },
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-1": {
-          "type": "logo",
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-1": {
+          "type": "collection",
           "settings": {
+            "collection": "kids-adventures",
             "image": "shopify:\/\/shop_images\/adventure-kids.jpg",
-            "link": "shopify:\/\/collections\/kids-adventures"
+            "title": "Get Outdoors"
           }
         },
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-2": {
-          "type": "logo",
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-2": {
+          "type": "collection",
           "settings": {
-            "image": "shopify:\/\/shop_images\/package-deals.jpg",
-            "link": "shopify:\/\/collections\/black-friday-bundles"
-          }
-        },
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-3": {
-          "type": "logo",
-          "settings": {
+            "collection": "christmas-collection",
             "image": "shopify:\/\/shop_images\/stocking-fillers.jpg",
-            "link": "shopify:\/\/collections\/christmas-collection"
+            "title": "Stocking Filler Ideas"
+          }
+        },
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "gift-cards",
+            "image": "shopify:\/\/shop_images\/gift-cards.jpg",
+            "title": ""
+          }
+        },
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "black-friday-bundles",
+            "image": "shopify:\/\/shop_images\/package-deals.jpg",
+            "title": "Christmas Bundles"
           }
         }
       },
       "block_order": [
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-0",
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-1",
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-2",
-        "template--15537823973538__b4060a51-1997-4b1d-ade1-1134f97247fb-1669713307acf2779e-3"
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-0",
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-1",
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-2",
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-3",
+        "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-4"
       ],
       "settings": {
-        "title": "FIND THE PERFECT GIFT"
+        "title": "FIND THE PERFECT GIFT",
+        "thumbnail_columns_desktop": 5,
+        "thumbnail_columns_mobile": 2,
+        "image-crop": "original",
+        "cta_label": "",
+        "cta_link": "",
+        "cta_button_style": "primary"
       }
     },
     "dynamic_highlights_banner": {
@@ -956,7 +975,7 @@
   },
   "order": [
     "dynamic_slideshow",
-    "b4060a51-1997-4b1d-ade1-1134f97247fb",
+    "56935623-71ac-48bb-8a52-2a83bb99342f",
     "dynamic_highlights_banner",
     "2e62aa47-b654-4fb1-b775-f35193bc8c64",
     "dynamic_featured_collection",
