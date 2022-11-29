@@ -214,11 +214,11 @@
         "settings": {
           "show_announcement": true,
           "homepage_announcement": false,
-          "announcement_text": "BLACK FRIDAY BUNDLE DEALS - SAVE 30% OFF",
-          "announcement_text_mobile": "BLACK FRIDAY BUNDLE DEALS - SAVE 30% OFF",
+          "announcement_text": "XMAS DELIVERY CUT OFF 🚛 7th December",
+          "announcement_text_mobile": "XMAS DELIVERY CUT OFF 🚛 7th December",
           "announcement_link": "shopify:\/\/collections\/black-friday-bundles",
           "announcement_color": "#ffffff",
-          "announcement_background": "#ff0000"
+          "announcement_background": "#007535"
         }
       },
       "static-utility-bar": {
