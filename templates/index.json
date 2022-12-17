@@ -5,6 +5,7 @@
       "blocks": {
         "slide-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "background_image": "shopify:\/\/shop_images\/banner-02.png",
             "mobile_background_image": "shopify:\/\/shop_images\/Christmas-Sale-Desktop_b104a537-f18b-42be-8b96-f69dc2bf8997.png",
@@ -32,6 +33,27 @@
             "mobile_background_image": "shopify:\/\/shop_images\/merry-christmas-2022-square.jpg",
             "title": "",
             "text": "",
+            "color": "#ffffff",
+            "link": "",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "b54f9556-fdc0-4a78-9e28-697a55e12ff0": {
+          "type": "slide",
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/banner-bestsellers_094eb7f9-e4fb-4044-97a2-6b9c6530116d.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/banner-bestsellers-square_d85b5881-dde5-4a17-93da-1edf44b7e514.jpg",
+            "title": "",
+            "text": "",
             "color": "#FFFFFF",
             "link": "",
             "text_alignment": "center",
@@ -49,7 +71,8 @@
       },
       "block_order": [
         "slide-1",
-        "d45037ec-5ee3-490b-8ccf-14e299bc256f"
+        "d45037ec-5ee3-490b-8ccf-14e299bc256f",
+        "b54f9556-fdc0-4a78-9e28-697a55e12ff0"
       ],
       "settings": {
         "enable_autoplay": true,
@@ -62,6 +85,7 @@
     },
     "56935623-71ac-48bb-8a52-2a83bb99342f": {
       "type": "dynamic-collection-list",
+      "disabled": true,
       "blocks": {
         "template--15537823973538__56935623-71ac-48bb-8a52-2a83bb99342f-16697133079356bc5c-0": {
           "type": "collection",
@@ -185,9 +209,9 @@
     "2e62aa47-b654-4fb1-b775-f35193bc8c64": {
       "type": "dynamic-featured-collection",
       "settings": {
-        "title": "CHRISTMAS GIFT IDEAS",
+        "title": "TINC BESTSELLERS",
         "layout": "grid",
-        "collection": "on-sale",
+        "collection": "best-sellers",
         "product_count": 10,
         "cta_label": "SHOP NOW",
         "cta_button_style": "primary"
