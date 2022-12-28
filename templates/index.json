@@ -54,8 +54,30 @@
             "mobile_background_image": "shopify:\/\/shop_images\/banner-bestsellers-square_d85b5881-dde5-4a17-93da-1edf44b7e514.jpg",
             "title": "",
             "text": "",
-            "color": "#FFFFFF",
+            "color": "#ffffff",
             "link": "shopify:\/\/collections\/best-sellers",
+            "text_alignment": "center",
+            "button_one_label": "",
+            "button_one_link": "",
+            "button_one_style": "primary",
+            "button_two_label": "",
+            "button_two_link": "",
+            "button_two_style": "primary",
+            "show_overlay": false,
+            "overlay_color": "#000000",
+            "overlay_opacity": 50
+          }
+        },
+        "24cbb474-209d-4d48-a4eb-e61e52e44f12": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "background_image": "shopify:\/\/shop_images\/bts-2023-banner.jpg",
+            "mobile_background_image": "shopify:\/\/shop_images\/bts-2023-banner-square.jpg",
+            "title": "",
+            "text": "",
+            "color": "#FFFFFF",
+            "link": "",
             "text_alignment": "center",
             "button_one_label": "",
             "button_one_link": "",
@@ -72,7 +94,8 @@
       "block_order": [
         "slide-1",
         "d45037ec-5ee3-490b-8ccf-14e299bc256f",
-        "b54f9556-fdc0-4a78-9e28-697a55e12ff0"
+        "b54f9556-fdc0-4a78-9e28-697a55e12ff0",
+        "24cbb474-209d-4d48-a4eb-e61e52e44f12"
       ],
       "settings": {
         "enable_autoplay": true,
