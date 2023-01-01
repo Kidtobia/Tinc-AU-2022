@@ -76,6 +76,14 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 
     {{ 'theme.css' | asset_url | stylesheet_tag }}
 
+    <script>
+      window.Samita = window.Samita || {}
+      Samita.ProductLabelsParams = Samita.ProductLabelsParams || {}
+      Samita.ProductLabelsParams.selectors = {
+        productElementSelectors: [".product--container"],
+        productTitleSelectors: [".product-title"]
+      }
+    </script>
     {% comment %}Inject theme-object begin{% endcomment %}
     <script>
       window.Theme = window.Theme || {};
@@ -100,8 +108,11 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
     </script>
     {% comment %}Inject theme-object end{% endcomment %}
 
-    {% render 'judgeme_core' %}
-</head>
+    
+
+                  {% include 'bss-product-labels-configs' %}
+                    </head>
+             
 
   <body class="template-{{ template.name }}" data-instant-allow-query-string {% if settings.reduce_animations %}data-reduce-animations{% endif %}><div class="pagefly-container">{{ content_for_layout }}</div></body>
 </html>
