@@ -268,46 +268,6 @@
         "settings": {
         }
       },
-      "10576504925779971753": {
-        "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-cart-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
-        "disabled": false,
-        "settings": {
-          "cart-button-status": true,
-          "cart-position": "after-checkout-container",
-          "button-text-long": "Get it paid with",
-          "button-text-medium": "Get it paid with",
-          "button-text-short": "Get it paid",
-          "theme": "vanilla",
-          "button-colour": "#ffffff",
-          "button-background-colour": "#6fcde4",
-          "button-height": 47,
-          "border-radius": 4,
-          "margin-top": 10,
-          "margin-bottom": 10,
-          "width": 20,
-          "alignment": "left"
-        }
-      },
-      "6593136046357153830": {
-        "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-flyout-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
-        "disabled": false,
-        "settings": {
-          "flyout-button-status": false,
-          "flyout-position": "after-checkout-button",
-          "button-text-long": "Get it paid for you with",
-          "button-text-medium": "Get it paid for with",
-          "button-text-short": "Get it paid",
-          "theme": "vanilla",
-          "button-colour": "#ffffff",
-          "button-background-colour": "#6fcde4",
-          "button-height": 52,
-          "border-radius": 3,
-          "margin-top": 10,
-          "margin-bottom": 10,
-          "width": 100,
-          "alignment": "center"
-        }
-      },
       "7420477900589326039": {
         "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-product-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
         "disabled": true,
@@ -333,8 +293,48 @@
       },
       "3824936769257688723": {
         "type": "shopify:\/\/apps\/sami-product-labels-badges\/blocks\/app-embed-block\/b9b44663-5d51-4be1-8104-faedd68da8c5",
-        "disabled": false,
+        "disabled": true,
         "settings": {
+        }
+      },
+      "6593136046357153830": {
+        "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-flyout-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
+        "disabled": true,
+        "settings": {
+          "flyout-button-status": false,
+          "flyout-position": "after-checkout-button",
+          "button-text-long": "Get it paid for you with",
+          "button-text-medium": "Get it paid for with",
+          "button-text-short": "Get it paid",
+          "theme": "vanilla",
+          "button-colour": "#ffffff",
+          "button-background-colour": "#6fcde4",
+          "button-height": 52,
+          "border-radius": 3,
+          "margin-top": 10,
+          "margin-bottom": 10,
+          "width": 100,
+          "alignment": "center"
+        }
+      },
+      "10576504925779971753": {
+        "type": "shopify:\/\/apps\/youpay-multiplayer-shopping\/blocks\/youpay-cart-settings\/96cbed91-f0be-45a9-92ad-cc2d2e43f2b7",
+        "disabled": true,
+        "settings": {
+          "cart-button-status": true,
+          "cart-position": "after-checkout-container",
+          "button-text-long": "Get it paid with",
+          "button-text-medium": "Get it paid with",
+          "button-text-short": "Get it paid",
+          "theme": "vanilla",
+          "button-colour": "#ffffff",
+          "button-background-colour": "#6fcde4",
+          "button-height": 47,
+          "border-radius": 4,
+          "margin-top": 10,
+          "margin-bottom": 10,
+          "width": 20,
+          "alignment": "left"
         }
       }
     }
