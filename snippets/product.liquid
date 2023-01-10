@@ -168,7 +168,10 @@
               {% endif %}
             {% when 'price' %}
               {% if settings.product_ratings_reviews %}
-
+<!-- Insert Reviews.oi Code Here 
+                <div class="ruk_rating_snippet" data-sku="{{ product.id }};{{ product.variants | map: 'sku' | join: ';' }};{{ product.variants | map: 'id' | join: ';' }}">
+                </div>
+End Reviews.io Code-->
               {% endif %}
               <div
                 class="product-pricing"
@@ -205,8 +208,8 @@
                   include_hidden_price: true
                 %}
 <!-- ZipMoney Widget -->
-          			{% render 'zip-widget' %}
-                  <p><a style="cursor:pointer;color:black;" id="shopify-prod-calc" data-zm-widget="repaycalc" data-zm-amount="20" data-zm-info="true"></a></p>
+          		{% render 'zip-widget' %}
+                  <a style="cursor:pointer;color:black;" id="shopify-prod-calc" data-zm-widget="repaycalc" data-zm-amount="20" data-zm-info="true"></a>
 <!-- End ZipMoney Widget -->
                 <form data-payment-terms-target style="display: none;"></form>
               </div>
